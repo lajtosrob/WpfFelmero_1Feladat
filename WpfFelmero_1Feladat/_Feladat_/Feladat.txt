@@ -1,0 +1,14 @@
+a) 
+Nevezze át az ablakot a minta szerint! Az ablak mérete 300x200 legyen!
+
+b) 
+Alakítsa ki GRID rácsban a minta szerinti képernyõképet! 
+A rács 2 oszlopból és 3 sorból áll. A beviteli mezõk szélessége 100, a betûk mérete 20 DIU.
+
+c)
+A gomb lenyomására adja össze a beírt két számot és jelenítse meg az eredményt!
+
+d)
+Figyeljen az elnevezési konvenciókra! 
+
+
